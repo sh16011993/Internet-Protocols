@@ -22,4 +22,4 @@ https://github.com/att/pox/blob/master/pox/misc/of_tutorial.py
 
 ## proj-topo file defines the topology for the Network (Leaf-Spine Topology)
 
-## proj-pox file defines the controller logic that dictates the path that the packets will take from the source to the destination. Controller installs flows in the Open vSwitches that guides the path the packets will take to reach from the source to the destination
+## proj-pox file defines the controller logic that dictates the path that the packets will take from the source to the destination. Controller installs flows in the Open vSwitches that guides the path of the packets
