@@ -18,5 +18,6 @@ https://github.com/att/pox/blob/master/pox/forwarding/l2_multi.py
 https://github.com/att/pox/blob/master/pox/openflow/spanning_tree.py  
 https://github.com/att/pox/blob/master/pox/misc/of_tutorial.py
 
-## This project demonstrates Load Balancing in Software Defined Networks [Datacenter Networks]
-
+This project demonstrates Load Balancing in Software Defined Networks [For Datacenter Networks]
+-> proj-topo file defines the topology for the Network (Leaf-Spine Topology)
+-> proj-pox file defines the controller logic that dictates the path that the packets will take from the source to the destination. Controller installs flows in the Open vSwitches that guides the path of the packets
